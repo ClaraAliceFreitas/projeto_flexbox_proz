@@ -1,0 +1,18 @@
+.flex-container {
+    display: flex;
+    justify-content:flex-end;
+    
+    
+   
+  }
+  body{
+    background-color: rgb(193, 158, 226);
+    margin-right: 450px;
+  }
+  h2{
+    margin-left: 850px;
+  }
+
+  img{
+    margin: 15px;
+  }
